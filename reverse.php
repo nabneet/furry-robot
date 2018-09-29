@@ -1,6 +1,7 @@
 <?php
 
   $s = "aabbcc";
-  echo "strrev($str)";
+  $rev = strrev($str)
+  echo $rev;
 
 ?>
